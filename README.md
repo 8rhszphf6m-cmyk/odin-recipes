@@ -16,6 +16,6 @@ By completing this project, I have successfully applied and demonstrated the fol
 * **Web Deployment:** Publishing a live version of the project to the internet using GitHub Pages.
 
 ## Recipes Included
-* 🍕 **Homemade Pizza**
-* 🍪 **Chocolate Chocolate Chip Cookies**
-* layered_pasta **Lasagna**
+* **Lasagna**
+* **Chocolate Chocolate Chip Cookies**
+* **Homemade Pizza**
