@@ -9,6 +9,7 @@ The website consists of a main homepage that links to a variety of recipe pages.
 By completing this project, I have successfully applied and demonstrated the following core technical skills:
 
 * **HTML Fundamentals:** Structuring text using headings (`<h1>`, `<h2>`), paragraphs (`<p>`), and emphasizing content.
+* **CSS Styling:** Implementing basic page layouts, managing text typography (Arial/sans-serif), customizing spacing with margins and padding, and adjusting image display properties.
 * **Media Integration:** Properly embedding images using the `<img>` tag with appropriate attributes.
 * **Lists:** Implementing unordered lists (`<ul>`) for ingredients and navigation links, and ordered lists (`<ol>`) for sequential preparation steps.
 * **Navigation & Links:** Creating anchor tags (`<a>`) to navigate between local directories (using relative file paths like `../index.html`) and external web resources.
